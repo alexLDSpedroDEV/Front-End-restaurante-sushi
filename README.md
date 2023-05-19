@@ -16,7 +16,7 @@ Oque eu utilizei no projeto:
  - CSS ( mobile first, responsividade, animations ).
 
 
-![i5](https://github.com/alexLDSpedroDEV/pag-restaurante-sushi/assets/115034319/26b62625-614a-465d-9177-c82c4cf2e4c2)
+![i5 (2)](https://github.com/alexLDSpedroDEV/pag-restaurante-sushi/assets/115034319/456f2088-e93b-461b-8ef0-1abb60740da0)
 
 ![i1](https://github.com/alexLDSpedroDEV/pag-restaurante-sushi/assets/115034319/e1b25f22-912b-45f3-846d-e546db2b3b4e)
 
