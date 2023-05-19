@@ -17,8 +17,12 @@ Oque eu utilizei no projeto:
 
 
 ![i5](https://github.com/alexLDSpedroDEV/pag-restaurante-sushi/assets/115034319/26b62625-614a-465d-9177-c82c4cf2e4c2)
+
 ![i1](https://github.com/alexLDSpedroDEV/pag-restaurante-sushi/assets/115034319/e1b25f22-912b-45f3-846d-e546db2b3b4e)
+
 ![i2](https://github.com/alexLDSpedroDEV/pag-restaurante-sushi/assets/115034319/fc548a79-3b55-4d23-9a45-952b7a447310)
-![i3](https://github.
+
+![i3](https://github.com/alexLDSpedroDEV/pag-restaurante-sushi/assets/115034319/f26f49e1-f32d-4164-b7c4-afcce4d346c0)
+
 ![i4](https://github.com/alexLDSpedroDEV/pag-restaurante-sushi/assets/115034319/556146b4-df37-467d-85bf-9a799189fc80)
-com/alexLDSpedroDEV/pag-restaurante-sushi/assets/115034319/9559fa91-20b0-4f0f-afff-0b343b04fa5e)
+
